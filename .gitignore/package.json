@@ -1,1 +1,13 @@
-
+{
+	"name": "botdiscordaniversaire",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js"
+	"scripts":{"echo\"Error: no test specifed\" && exit 1"
+),
+	"author":"Tolisoft"
+	"license":"ISC"
+	"dependencies": {
+		"discord.js":"^11.2.1 
+	}
+}
