@@ -7,7 +7,7 @@ bot.on('ready', () => {
     console.log("Bot Ready !"); 
 });
 
-bot.login('NDE3MjU4Mzg0MDAyMzgzODcy.DXVbcA.EBeFPng0wiyN-_dtcGMcsJ2Qmlc');
+bot.login(process.env.TOKEN);
 
 bot.on('message', message =>{
     if (message.content === "ping"){
